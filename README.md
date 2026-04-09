@@ -1,1 +1,1 @@
-# alura
+# javascrip-projeto-de-vida
